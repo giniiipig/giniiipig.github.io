@@ -12,5 +12,4 @@ comments: true
 ## <font color='dodgerblue'> 특징 </font>
 - 수명:2~3년
 
-
 ![햄스터](\assets\imge\375px-PhodopusSungorus_2.jpg)

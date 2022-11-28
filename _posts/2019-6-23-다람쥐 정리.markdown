@@ -13,4 +13,4 @@ comments: true
 - 몸길이 : 붉은다람쥐 : 21 cm, 동부회색다람쥐 : 23 – 30 cm 
 
 
-![햄스터](assets\imge\Streifenhoernchen.jpg)
+![햄스터](\assets\imge\Streifenhoernchen.jpg)
