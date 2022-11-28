@@ -1,32 +1,16 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
-date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+title: "햄스터에 대해서"
+date:   2021-11-10 20:24:09 +0900
+categories: jekyll update
+comments: true  
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 
-```javascript
-const express = require('express')
-const app = express()
- 
-app.get('/', function (req, res) {
-  res.send('Hello World')
-})
- 
-app.listen(3000)
-```
+## <font color='dodgerblue'> 햄스터란 </font>
+햄스터(영어: hamster)는 쥐목 비단털쥐과 비단털쥐아과에 속하는 종류이다. 또한 햄스터는 아기비단털쥐라고도 불린다.[1][2] 실험용 또는 반려용으로 많이 기른다.[3] 먹이는 주로 곡물을 먹으며 곤충인 밀웜이나 귀뚜라미 등을 섭취하기도 한다. 햄스터는 크게 두종류로 나뉘는데, 드워프햄스터와 골든햄스터로 나뉜다. 드워프햄스터에는 소형햄스터들이 속하지만 골든햄스터에는 시리아햄스터(골든햄스터) 그 종류만 속한다. 다람쥐 같이 볼주머니가 있어 해바라기 씨 같은 곡물, 씨앗들을 보관한다.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem excepturi nemo similique atque sapiente aperiam, dolorum deleniti! Esse quam perferendis temporibus nemo at molestias necessitatibus tenetur cupiditate sapiente. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil et voluptatibus non labore officiis assumenda, distinctio perspiciatis blanditiis nesciunt rerum molestias impedit fugiat nulla qui libero minima quasi! Libero, iure.
+## <font color='dodgerblue'> 특징 </font>
+- 수명:2~3년
 
-```scss
-body {
-	font-family: 'Nunito Sans', sans-serif;
-	line-height: 1.5em;
-	margin: 0;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-```
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
+
+![햄스터](\assets\imge\375px-PhodopusSungorus_2.jpg)
