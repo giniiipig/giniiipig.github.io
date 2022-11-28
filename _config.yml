@@ -15,6 +15,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
+  disqus_shortname: "giniiipig"
   title: Adam Denisov
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
@@ -28,11 +29,6 @@ texture:
     github:  thelehhman
     linkedIn: in/thelehhman
     rss: rss
- 
-comment:
-  provider:       "disqus"
-  disqus:
-    shortname:    "giniiipig"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
@@ -44,3 +40,8 @@ comment:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+comment:
+  provider:       "disqus"
+  disqus:
+    shortname:    "giniiipig"
