@@ -1,4 +1,4 @@
-# 자신의 프로젝트를 <span style="color:blue">Build</span>한 과정을 기술
+# 자신의 프로젝트를 <span style="color:#008000">Build</span>한 과정을 기술
 
 -jekyll 를 통해 서버 구현
 -jekyll Themes 속 배경사용
