@@ -1,3 +1,8 @@
+#자신의 프로젝트를 Build한 과정을 기술
+
+배경사용
+
+
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
