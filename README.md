@@ -3,6 +3,9 @@
 배경사용
 
 
+각각의 페이지에 사진 삽입
+![/aaserts/imge/comments](/comments.png)
+
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
