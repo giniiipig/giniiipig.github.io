@@ -1,3 +1,12 @@
+# 자신의 프로젝트를 <span style="color:#008000">Build</span>한 과정을 기술
+
+- jekyll 를 통해 서버 구현
+- jekyll Themes 속 배경사용
+- 페이지 속 코멘트 삽입
+- 각각의 페이지에 사진 삽입
+- 소주제 <span style="color:#008000">글자 색</span> 변경
+
+
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
